@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSetExample",
+            "request": "launch",
+            "mainClass": "TreeSetExample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Echo",
+            "request": "launch",
+            "mainClass": "Echo"
+        }
+    ]
+}
