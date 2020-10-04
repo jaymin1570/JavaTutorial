@@ -8,7 +8,7 @@ class India{
     
     Greeting g= new Greeting(){
         public void sayHello(){
-            System.out.println("Namaste india good morning .....");
+            System.out.println("Namaste india .....");
         }
     };
 }
